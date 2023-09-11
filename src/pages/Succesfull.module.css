@@ -1,0 +1,20 @@
+.main{
+    margin-top: 60px;
+}
+.iocn{
+    font-weight: 900;
+    font-size: 60px;
+    color: green;
+    font-style: italic;
+}
+.con{
+    margin-top: 30px;
+    font-style: italic;
+}
+.linkLine{
+    margin-top: 40px;
+    font-style: italic;
+}
+.link{
+    text-decoration: none;
+}

@@ -1,0 +1,25 @@
+.border{
+    border: 1px solid ;
+    padding: 10px 220px;
+background-color:rgb(235, 203, 213) ;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+.heding{
+    font-weight:bold;
+    text-align: center;
+}
+.wigth{
+    font-weight: 900;
+}
+.secondCol{
+    text-align: left;
+    margin-left: 100px;
+}
+.btn{
+    padding: 0;
+    text-align: end;
+}
+.btnss{
+    text-align: center;
+}
